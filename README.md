@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Kushal R👋
 
-<!--
-**xrkushal/xrkushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **VLSI Engineer** focusing on **Physical Design (PD)** and **Design Verification (DV)**. Currently working on RTL-to-GDSII digital implementation flows and SystemVerilog verification architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Focus & Stack
+
+* **Hardware Description & Verification:** Verilog, SystemVerilog (SVA, OOP), C/C++
+* **Physical Design & Backend:** Synthesis, Floorplanning, Placement, CTS, Routing, STA, DRC/LVS
+* **Verification Methodologies:** Constrained-Random Verification (CRV), UVM Architecture, Functional & Code Coverage
+* **Scripting & Automation:** TCL, Bash, Python, Makefiles
+* **Tools & Environments:** Cadence Virtuoso, OpenROAD / OpenLANE, ModelSim / Questa, Linux / Unix
+
+---
+
+### 📌 Current Focus & Active Projects
+
+* 🔬 Developing custom ASIC implementations using open-source PDKs (SkyWater 130nm / ASAP7).
+* 🧪 Building UVM-compliant testbenches and SVA assertions for standard bus peripherals.
+* ⚡ Deepening static timing analysis (STA) closure techniques and clock-tree synthesis (CTS) optimization.
+
+---
+
+### 🌐 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **Email:** [your-email@example.com](mailto:your-email@example.com)
