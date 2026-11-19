@@ -12,10 +12,9 @@
 - 🎓 3rd-year Electronics & Communication Engineering student at **RVCE, Bangalore** (2022 scheme)
 - 🔧 Focused on **embedded systems** and exploring **VLSI / digital design**
 - 🚗 Interested in the **automotive** and **semiconductor embedded systems** space
-- 🛠️ Hands-on with **STM32**, **ESP32**, **FreeRTOS**, **CAN Bus**, and **RTL design in Verilog**
+- 🛠️ Hands-on with **STM32**, **ESP32**, and **RTL design in Verilog**
 - 📡 Background in signal processing, DSP, and embedded ML deployment on edge devices
 - 🌱 Currently building a serious independent RTL/Verilog project to deepen my VLSI foundation
-- 🎯 Targeting roles at **Bosch, Continental, NXP, TI, KPIT, Qualcomm** (embedded) and **Intel, NVIDIA, Synopsys, Cadence** (VLSI)
 
 ---
 
