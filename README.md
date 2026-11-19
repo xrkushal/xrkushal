@@ -1,6 +1,6 @@
 # Hi there, I'm Kushal R👋
 
-Aspiring **VLSI Engineer** focusing on **Physical Design (PD)** and **Design Verification (DV)**. Currently working on RTL-to-GDSII digital implementation flows and SystemVerilog verification architectures.
+Aspiring **VLSI Engineer** focusing on **Design Verification (DV)**. 
 
 ---
 
